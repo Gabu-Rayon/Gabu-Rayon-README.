@@ -1,21 +1,19 @@
-### Hi there 👋
+### Hi world 👋
 
-**Gabu-Rayon/Gabu-Rayon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+**Its Gabu-Rayon**  ✨here ✨.
 
 <h3 align="center">I am a Full stack Dev & Software Engineer.</h3>
 
-**Gabu-Rayon/Gabu-Rayon** ✨ _Quick Details_ ✨ 
+ ✨ _About Me_ ✨ 
 
-- 🔭 I’m currently working on  Php8
-- 🌱 I’m currently learning Laravel9,JQuery3.6.0
+- 🔭 I’m currently working on  Laravel9
+- 🌱 I’m currently learning Web Fullstack Dev
 - 👯 I’m looking to collaborate on Php 
-- 🤔 I’m looking for help with Jquery 
+- 🤔 I’m looking for help with Javascript 
 - 💬 Ask me about PHP,Laravel
 - 📫 How to reach me: gibsonmurimi4@gmail.com,iamtobago254@gmail.com
-- 😄 Pronouns:Mr Muriuki Gibson
-- ⚡ Fun fact: Inline  Skater
+- 😄 Pronouns:He/Him
+- ⚡ Fun fact: Inline  Skater,4-Introvert
 
 
 

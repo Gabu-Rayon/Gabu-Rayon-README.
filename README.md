@@ -8,7 +8,7 @@ If you like my work, you can Buy me a smoothie* @gibsonmurimi4@gmail.com its Pay
 !.
 
 * I do coffee</h6>
-
+<h6>
  ✨ _I'M_ ✨ 
 
 - 🔭 I’m currently working on  Laravel9
@@ -19,7 +19,7 @@ If you like my work, you can Buy me a smoothie* @gibsonmurimi4@gmail.com its Pay
 - 📫 How to reach me: gibsonmurimi4@gmail.com,iamtobago254@gmail.com
 - 😄 Pronouns:He/Him
 - ⚡ Fun fact: Inline  Skater,4-Introvert
-
+</6>
 
 
 

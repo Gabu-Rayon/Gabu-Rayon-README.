@@ -2,9 +2,14 @@
 
 **Its Gabu-Rayon**  ✨here ✨.
 
-<h3 align="center">I am a Full stack Dev & Software Engineer.</h3>
+<h3 align="center">If I ever get time I'll write something meaningful here. For now, I'm either Learning/Exploring Tech, coding or off doing something outdoors to get away from all the technology.
 
- ✨ _About Me_ ✨ 
+If you like my work, you can Buy me a smoothie* @gibsonmurimi4@gmail.com its Paypal mmmmmh
+!.
+
+* I do drink coffee</h3>
+
+ ✨ _I'M_ ✨ 
 
 - 🔭 I’m currently working on  Laravel9
 - 🌱 I’m currently learning Web Fullstack Dev

@@ -18,7 +18,7 @@ If you like my work, you can Buy me a smoothie* @gibsonmurimi4@gmail.com its Pay
 - 🤔 I’m looking for help with Javascript 
 - 💬 Ask me about PHP,Laravel
 - 📫 How to reach me: gibsonmurimi4@gmail.com,iamtobago254@gmail.com
-- 😄 Pronouns:He/Him
+- 😄 Pronouns:He/His/Him
 - ⚡ Fun fact: Inline  Skater,4-Introvert
 <hr>
 <hr>

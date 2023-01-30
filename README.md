@@ -3,14 +3,15 @@
 **Its Gabu-Rayon**  ✨here ✨.
 
 <h6 align="center">If I ever get time I'll write something meaningful here. For now, I'm either Learning/Exploring Tech, coding or off doing something outdoors to get away from all the technology.
-
+<br>
 If you like my work, you can Buy me a smoothie* @gibsonmurimi4@gmail.com its Paypal mmmmmh
 !.
+<br>
+* I do coffee
+</h6>
 
-* I do coffee</h6>
-<h6>
  ✨ _I'M_ ✨ 
-
+<6>
 - 🔭 I’m currently working on  Laravel9
 - 🌱 I’m currently learning Web Fullstack Dev
 - 👯 I’m looking to collaborate on Php 
@@ -19,12 +20,7 @@ If you like my work, you can Buy me a smoothie* @gibsonmurimi4@gmail.com its Pay
 - 📫 How to reach me: gibsonmurimi4@gmail.com,iamtobago254@gmail.com
 - 😄 Pronouns:He/Him
 - ⚡ Fun fact: Inline  Skater,4-Introvert
-</6>
-
-
-
-
-
+</h6>
 <hr>
 <hr>
 

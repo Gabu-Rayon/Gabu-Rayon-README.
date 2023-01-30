@@ -2,12 +2,12 @@
 
 **Its Gabu-Rayon**  ✨here ✨.
 
-<h3 align="center">If I ever get time I'll write something meaningful here. For now, I'm either Learning/Exploring Tech, coding or off doing something outdoors to get away from all the technology.
+<h6 align="center">If I ever get time I'll write something meaningful here. For now, I'm either Learning/Exploring Tech, coding or off doing something outdoors to get away from all the technology.
 
 If you like my work, you can Buy me a smoothie* @gibsonmurimi4@gmail.com its Paypal mmmmmh
 !.
 
-* I do drink coffee</h3>
+* I do drink coffee</h6>
 
  ✨ _I'M_ ✨ 
 

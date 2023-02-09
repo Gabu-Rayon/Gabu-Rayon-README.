@@ -5,16 +5,18 @@
 <h6 align="center">If I ever get time I'll write something meaningful here. For now, I'm either Learning/Exploring Tech, coding or off doing something outdoors to get away from all the technology.
  </h6>
 <br>
-If you like my work, you can Buy me a smoothie* @gibsonmurimi4@gmail.com its Paypal mmmmmh
+<h6 align="center">
+If you like my work, you can Buy me a smoothie* @gibsonmurimi4@gmail.comits @Paypal hommie!  @+254 758519193  #Holla me  
 !.
+</h6>
 <br>
 * I do coffee
 
 
- ✨ _I'M_ ✨ 
-- 🔭 I’m currently working on  Laravel9
+ ✨ _Yeah_ ✨ 
+- 🔭 I’m currently working on  Laravel10.x
 - 🌱 I’m currently learning Web Fullstack Dev
-- 👯 I’m looking to collaborate on Php 
+- 👯 I’m looking to collaborate on Php & its' Frameworks 
 - 🤔 I’m looking for help with Javascript 
 - 💬 Ask me about PHP,Laravel
 - 📫 How to reach me: gibsonmurimi4@gmail.com,iamtobago254@gmail.com

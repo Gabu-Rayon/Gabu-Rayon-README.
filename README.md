@@ -5,13 +5,14 @@
 <h6 align="center">If I ever get time I'll write something meaningful here. For now, I'm either Learning/Exploring Tech, coding or off doing something outdoors to get away from all the technology.
  </h6>
 <br>
-<h6 align="center">
+<h6>
 If you like my work, you can Buy me a smoothie* @gibsonmurimi4@gmail.comits @Paypal hommie!  @+254 758519193  #Holla me  
 !.
 </h6>
 <br>
+<h6>
 * I do coffee
-
+</h6>
 
  ✨ _Yeah_ ✨ 
 - 🔭 I’m currently working on  Laravel10.x

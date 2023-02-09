@@ -9,7 +9,6 @@
 If you like my work, you can Buy me a smoothie* @gibsonmurimi4@gmail.comits @Paypal hommie!  @+254 758519193  #Holla me  
 !.
 </h6>
-<br>
 <h6>
 * I do coffee
 </h6>
